@@ -18,12 +18,14 @@ h2 {
     font-family: 'Sacramento', cursive;
     color: #66BFBF;
     font-weight: normal;
+    font-size: 2rem;
 }
 
 h3 {
     margin-top: 0px;
     font-family: 'Sacramento', cursive;
     color: #11999E;
+    font-size: 1.5rem;
 }
 
 a {
@@ -44,9 +46,13 @@ a {
 
 }
 
-.skills {
-    background-color: #E4F9F5;
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
 }
+
 
 .top-cloud {
     position: absolute;
@@ -66,4 +72,16 @@ a {
     border: 2px;
     border-color:black;
     border-radius: 9px;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
