@@ -30,6 +30,7 @@ h3 {
 
 a {
     color: #11999E;
+    text-decoration: none;
 }
 
 hr {
@@ -60,7 +61,6 @@ hr {
     margin-left: 15px;
     margin-right: 15px;
     color: #11999E;
-    text-decoration: none;
     
 }
 
