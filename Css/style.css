@@ -85,3 +85,11 @@ a {
     float: right;
     margin-left: 30px;
 }
+
+.code-skill-description {
+    clear: left;
+}
+
+.chillies-skill-description {
+    clear: right;
+}
